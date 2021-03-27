@@ -8,7 +8,7 @@
 
 ## Preview
 
-tea-css-html.netlify.app
+https://tea-css-html.netlify.app
 
 ## Tea-Site
 
